@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">languagelib</string>
+    <string name="lang_chinese">中文</string>
+    <string name="lang_english">English</string>
+    <string name="lang_thai">ถามไทย</string>
+    <string name="lang_khmer">កម្ពុជា</string>
+</resources>
